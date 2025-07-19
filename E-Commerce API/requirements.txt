@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-Marshmallow
+marshmallow-sqlalchemy
+mysql-connector-python
+flask-jwt-extended
+
+# Was trying to get this to work as a pip install -r requirements.txt
+
